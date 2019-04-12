@@ -1,0 +1,11 @@
+{
+  "name": "hello-api",
+  "description": "Hellow World API",
+  "author": "Truyen",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node ./server.js"
+  }
+}
